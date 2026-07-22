@@ -1,1 +1,1 @@
-# DQN-CartPole-From-Scratch
+# CartPole-DQN
